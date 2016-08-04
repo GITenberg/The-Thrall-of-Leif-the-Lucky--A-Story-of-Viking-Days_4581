@@ -1,0 +1,30 @@
+_repo: The-Thrall-of-Leif-the-Lucky--A-Story-of-Viking-Days_4581
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liljencrantz, Ottilie A. (Ottilia Adelina)
+    alias: Liljencrantz, Ottilia Adelina
+    birthdate: 1876
+    deathdate: 1910
+    gutenberg_agent_id: '1178'
+    url: http://www.gutenberg.org/2009/agents/1178
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Northmen -- Fiction'
+- !lcsh 'Discoveries in geography -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Vikings -- Fiction'
+- !lcsh 'Leiv Eiriksson, -approximately 1020 -- Fiction'
+- !lcsh 'America -- Discovery and exploration -- Fiction'
+- GITenberg
+title: 'The Thrall of Leif the Lucky: A Story of Viking Days'
+url: http://www.gutenberg.org/ebooks/4581
